@@ -37,8 +37,12 @@ No soy desarrollador: soy un novelista web que, por casualidad, construye las he
 
 ## <a id="works"></a>📚 Lo que escribo
 
-<details>
-<summary>Mostrar detalles</summary>
+<table>
+<tr>
+<td width="110" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/114101-enigmatic-pathways-mystic-circuits.webp" width="100" alt="EPMC cover">
+</td>
+<td>
 
 ### 🌌 Enigmatic Pathways Mystic Circuits *(EPMC)*
 `Light Novel` `Reincarnation` `Progression Fantasy` `Psychological Drama` — **En hiato**
@@ -48,6 +52,14 @@ Un investigador que nunca aprendió a vivir despierta con una segunda vida en un
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-Leer-2f5c4f?style=for-the-badge)](https://www.royalroad.com/fiction/114101/enigmatic-pathways-mystic-circuits/)
 [![Scribble Hub](https://img.shields.io/badge/Scribble%20Hub-Leer-2f5c4f?style=for-the-badge)](https://www.scribblehub.com/series/2312083/enigmatic-pathways-mystic-circuits/)
 
+</td>
+</tr>
+<tr>
+<td width="110" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/163034-summoned-by-mistake-i-decided-to-learn.webp" width="100" alt="SBM cover">
+</td>
+<td>
+
 ### 🤖 Summoned by Mistake, I Decided to Learn How to Live *(SBM)*
 `Web Novel` `Isekai` `Soft Sci-Fi` `Character Drama` — **En publicación**
 
@@ -56,6 +68,14 @@ A un hombre que nunca entendió su propia vida le entregan un compañero de IA e
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-Leer-2f5c4f?style=for-the-badge)](https://www.royalroad.com/fiction/163034/summoned-by-mistake-i-decided-to-learn-how-to)
 [![Scribble Hub](https://img.shields.io/badge/Scribble%20Hub-Leer-2f5c4f?style=for-the-badge)](https://www.scribblehub.com/series/2312017/summoned-by-mistake-i-decided-to-learn-how-to-live/)
 
+</td>
+</tr>
+<tr>
+<td width="110" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/the-shadow-i-cast-over-two-beautiful-flowers-203288.webp" width="100" alt="STBF cover">
+</td>
+<td>
+
 ### 🎭 The Shadow I Cast Over Two Beautiful Flowers *(STBF)*
 `Web Novel` `Vol. 1` `Reincarnation` `Contemporary Drama` — **18+ · En pausa**
 
@@ -63,7 +83,9 @@ Escrita corta y enfocada a propósito: un volumen, cuatro actos, pensada para de
 
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-Leer-833e3e?style=for-the-badge)](https://www.royalroad.com/fiction/173205/the-shadow-i-cast-over-two-beautiful-flowers/)
 
-</details>
+</td>
+</tr>
+</table>
 
 ## <a id="status"></a>🖊️ Escribiendo ahora
 
