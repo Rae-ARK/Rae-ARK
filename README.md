@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=150" width="150" alt="ARKarium icon">
+  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=300" width="150" alt="ARKarium icon">
 </p>
 
 <h1 align="center"><b>🍀 Rae ARK — 嵐久 怜</b></h1>
@@ -57,7 +57,7 @@ Written short and focused, on purpose — one volume, four acts, meant to prove 
 > | STBF — Act 2 | 🟡 On break |
 
 <details>
-<summary><h2>🛠️ Projects/h2></summary>
+<summary><h2>🛠️ Projects</h2></summary>
 
 ### 🌐 Author Site + Android App
 A Vue 3 + TypeScript site (Home / Works / Store / Journal / About / Feedback / Privacy / Terms) with light/dark theming that follows your system, offline support, and a native Android app wrapped via Capacitor — hardware back button, native status bar, safe-area-aware layout for edge-to-edge screens. Debug APK builds automatically via CI on every push.
