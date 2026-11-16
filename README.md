@@ -7,7 +7,7 @@
 
 <h3 align="center">✍️ Writer first. Everything else is AI Assisted Development.</h3>
 
-I'm not a developer — I'm a web novelist who happens to build the tools I need myself. This profile, the [![Author Site](https://img.shields.io/badge/Rae%20Portfolio-ARKfolio-#FDF4DC?style=flat-square)](https://rae-ark.horizonarkstudio.workers.dev/) below, all of it exists because I wanted it to and figured out how, not because I do this professionally.
+I'm not a developer — I'm a web novelist who happens to build the tools I need myself. This profile, the [![Author Site](https://img.shields.io/badge/Author%20Site-ARKfolio-#FDF4DC?style=flat-square)](https://rae-ark.horizonarkstudio.workers.dev/) below, all of it exists because I wanted it to and figured out how, not because I do this professionally.
 
 ---
 
