@@ -1,8 +1,4 @@
-<div align="center">
-
-**English** | [简体中文](docs/multi-lang-readme/README_zh.md) | [繁體中文](docs/multi-lang-readme/README_zh-TW.md) | [日本語](docs/multi-lang-readme/README_ja.md) | [한국어](docs/multi-lang-readme/README_ko.md) | [Türkçe](docs/multi-lang-readme/README_tr.md) | [Русский](docs/multi-lang-readme/README_ru.md) | [Tiếng Việt](docs/multi-lang-readme/README_vi.md) | [ไทย](docs/multi-lang-readme/README_th.md) | [Deutsch](docs/multi-lang-readme/README_de.md) | [Español](docs/multi-lang-readme/README_es.md) | [Français](docs/multi-lang-readme/README_fr.md) | [Українська](docs/multi-lang-readme/README_uk.md) | [Polski](docs/multi-lang-readme/README_pl.md) | [Português (Brasil)](docs/multi-lang-readme/README_pt-BR.md) | [العربية](docs/multi-lang-readme/README_ar.md) | [فارسی](docs/multi-lang-readme/README_fa.md) | [Bahasa Indonesia](docs/multi-lang-readme/README_id.md) | [Italiano](docs/multi-lang-readme/README_it.md) | [Ελληνικά](docs/multi-lang-readme/README_el.md) | [മലയാളം](docs/multi-lang-readme/README_ml.md) | [Roman Urdu](docs/multi-lang-readme/README_ur-Latn.md) | [Română](docs/multi-lang-readme/README_ro.md) | [Български](docs/multi-lang-readme/README_bg.md) | [வாசிப்புக்குறிப்பு](docs/multi-lang-readme/README_ta.md)
-
-</div>
+<a id="top"></a>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="ARKarium icon">
@@ -12,15 +8,26 @@
 
 <h3 align="center">✍️ Writer first. Everything else is AI Assisted Development.</h3>
 
-<h3 align="center">
-  <a href="https://rae-ark.horizonarkstudio.workers.dev/"><img alt="Author Site" src="https://img.shields.io/badge/Author%20Site-ARKfolio-%FDF4DC?style=flat-square"></a>
-</h3> 
+<p align="center">
+  <a href="https://rae-ark.horizonarkstudio.workers.dev/"><img alt="Author Site" src="https://img.shields.io/badge/Author%20Site-ARKfolio-2f5c4f?style=flat-square"></a>
+  <a href="https://x.com/Rae7866"><img alt="X" src="https://img.shields.io/badge/X-@Rae7866-000000?style=flat-square&logo=x"></a>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#works">Works</a> •
+  <a href="#status">Status</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#in-print">In Print</a> •
+  <a href="#connect">Connect</a> •
+  <a href="#languages">Languages</a>
+</p>
 
 I'm not a developer — I'm a web novelist who happens to build the tools I need myself. This profile, the below, all of it exists because I wanted it to and figured out how, not because I do this professionally.
 
 ---
 
-## 📖 About Me
+## <a id="about"></a>📖 About Me
 
 - ✍️ Hobbyist web novelist — fantasy and science fantasy, mostly about people rebuilding themselves.
 - 📚 Three ongoing works, spanning reincarnation, isekai, and contemporary drama.
@@ -28,8 +35,7 @@ I'm not a developer — I'm a web novelist who happens to build the tools I need
 - 💻 Not a coder by trade — I make small personal tools (like my author site) when I need something specific to exist.
 - 🎯 Goal: finish what I start, even the projects designed to be short on purpose.
 
-<details>
-<summary><h2>📚 What I Write</h2></summary>
+## <a id="works"></a>📚 What I Write
 
 ### 🌌 Enigmatic Pathways Mystic Circuits *(EPMC)*
 `Light Novel` `Reincarnation` `Progression Fantasy` `Psychological Drama` — **On Hiatus**
@@ -54,19 +60,16 @@ Written short and focused, on purpose — one volume, four acts, meant to prove 
 
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-Read-833e3e?style=for-the-badge)](https://www.royalroad.com/fiction/173205/the-shadow-i-cast-over-two-beautiful-flowers/)
 
-</details>
-
-## 🖊️ Currently Writing
+## <a id="status"></a>🖊️ Currently Writing
 
 > [!NOTE]
 > | Work | Status |
 > |---|---|
 > | EPMC — Volume 3 | 🟢 In progress |
 > | SBM — Arc 4 | 🟢 Ongoing |
-> | STBF — Act 2 | 🟡 On break |
+> | STBF — Act 2 | 🟡 On Break |
 
-<details>
-<summary><h2>🛠️ Projects</h2></summary>
+## <a id="projects"></a>🛠️ Projects
 
 ### 🌐 Author Site + Android App
 A Vue 3 + TypeScript site (Home / Works / Store / Journal / About / Feedback / Privacy / Terms) with light/dark theming that follows your system, offline support, and a native Android app wrapped via Capacitor — hardware back button, native status bar, safe-area-aware layout for edge-to-edge screens. Debug APK builds automatically via CI on every push.
@@ -77,9 +80,7 @@ A Vue 3 + TypeScript site (Home / Works / Store / Journal / About / Feedback / P
 
 > 🔄 **Next up:** migrating this site off Vue 3 and onto **[ARKlight](https://github.com/Rae-ARK/ARKlight)** — a Python-first static site compiler I'm building in parallel, write pages as Python functions and it compiles to plain HTML/CSS/JS.
 
-</details>
-
-## 🛍️ In Print
+## <a id="in-print"></a>🛍️ In Print
 
 > [!IMPORTANT]
 > Unofficially
@@ -90,11 +91,23 @@ A Vue 3 + TypeScript site (Home / Works / Store / Journal / About / Feedback / P
 [![eBay AU](https://img.shields.io/badge/eBay%20AU-SBM%20Paperback-e53238?style=flat-square)](https://www.ebay.com.au/itm/137466978621)
 [![Saxo](https://img.shields.io/badge/Saxo%20(DK)-SBM%20Paperback-black?style=flat-square)](https://www.saxo.com/dk/summoned-by-mistake-i-decided-to-learn-how-to-live_bog_9798181078697)
 
----
-
-## 📫 Connect
+## <a id="connect"></a>📫 Connect
 
 [![X](https://img.shields.io/badge/X-@Rae7866-000000?style=for-the-badge&logo=x)](https://x.com/Rae7866)
 
 > *"I hope for people to hold the book in their hands someday, and to sit on the shelves."*
 > — Rae ARK
+
+---
+
+<div align="center">
+
+<a id="languages"></a>
+
+🌐 **English** | [日本語](docs/multi-lang-readme/README_ja.md) | [简体中文](docs/multi-lang-readme/README_zh.md) | [한국어](docs/multi-lang-readme/README_ko.md) | [Español](docs/multi-lang-readme/README_es.md) | [Français](docs/multi-lang-readme/README_fr.md)
+
+<a href="#top">⬆️ Back to top</a>
+
+Made by Rae ARK • [Author Site](https://rae-ark.horizonarkstudio.workers.dev/) • [X](https://x.com/Rae7866)
+
+</div>
