@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=300" width="150" alt="ARKarium icon">
+  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="ARKarium icon">
 </p>
 
 <h1 align="center"><b>🍀 Rae ARK — 嵐久 怜</b></h1>
