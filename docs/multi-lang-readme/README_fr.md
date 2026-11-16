@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="ARKarium icon">
+  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="Rae's Profile">
 </p>
 
 <h1 align="center"><b>🍀 Rae ARK — 嵐久 怜</b></h1>
@@ -37,6 +37,9 @@ Je ne suis pas développeur : je suis un romancier web qui se trouve à fabrique
 
 ## <a id="works"></a>📚 Ce que j'écris
 
+<details>
+<summary>Afficher les détails</summary>
+
 ### 🌌 Enigmatic Pathways Mystic Circuits *(EPMC)*
 `Light Novel` `Reincarnation` `Progression Fantasy` `Psychological Drama` — **En hiatus**
 
@@ -60,6 +63,8 @@ Un homme qui n'a jamais compris sa propre vie reçoit un compagnon IA plutôt qu
 
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-Lire-833e3e?style=for-the-badge)](https://www.royalroad.com/fiction/173205/the-shadow-i-cast-over-two-beautiful-flowers/)
 
+</details>
+
 ## <a id="status"></a>🖊️ En cours d'écriture
 
 > [!NOTE]
@@ -71,6 +76,9 @@ Un homme qui n'a jamais compris sa propre vie reçoit un compagnon IA plutôt qu
 
 ## <a id="projects"></a>🛠️ Projets
 
+<details>
+<summary>Afficher les détails</summary>
+
 ### 🌐 Site d'auteur + application Android
 Un site en Vue 3 + TypeScript (Accueil / Œuvres / Boutique / Journal / À propos / Retours / Confidentialité / Conditions) avec thème clair/sombre qui suit le système, mode hors ligne et une application Android native empaquetée avec Capacitor — bouton retour matériel, barre d'état native, mise en page adaptée aux zones sûres des écrans bord à bord. L'APK de débogage est compilé automatiquement par la CI à chaque push.
 
@@ -79,6 +87,8 @@ Un site en Vue 3 + TypeScript (Accueil / Œuvres / Boutique / Journal / À propo
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rae-ARK/ARKfolio)
 
 > 🔄 **Prochaine étape :** migrer ce site de Vue 3 vers **[ARKlight](https://github.com/Rae-ARK/ARKlight)** — un compilateur de sites statiques orienté Python que je développe en parallèle : on écrit les pages sous forme de fonctions Python et il les compile en HTML/CSS/JS bruts.
+
+</details>
 
 ## <a id="in-print"></a>🛍️ En version imprimée
 
@@ -104,7 +114,7 @@ Un site en Vue 3 + TypeScript (Accueil / Œuvres / Boutique / Journal / À propo
 
 <a id="languages"></a>
 
-🌐 [English](../../README.md) | [日本語](README_ja.md) | [简体中文](README_zh.md) | [한국어](README_ko.md) | [Español](README_es.md) | **Français**
+🌐 [English](../../README.md) | [简体中文](README_zh.md) | [繁體中文](README_zh-TW.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [Türkçe](README_tr.md) | [Русский](README_ru.md) | [Tiếng Việt](README_vi.md) | [ไทย](README_th.md) | [Deutsch](README_de.md) | [Español](README_es.md) | **Français** | [Українська](README_uk.md) | [Polski](README_pl.md) | [Português (Brasil)](README_pt-BR.md) | [العربية](README_ar.md) | [فارسی](README_fa.md) | [Bahasa Indonesia](README_id.md) | [Italiano](README_it.md) | [Ελληνικά](README_el.md) | [മലയാളം](README_ml.md) | [Roman Urdu](README_ur-Latn.md) | [Română](README_ro.md) | [Български](README_bg.md) | [தமிழ்](README_ta.md)
 
 <a href="#top">⬆️ Retour en haut</a>
 

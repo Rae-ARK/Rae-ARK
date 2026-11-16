@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="ARKarium icon">
+  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="Rae's Profile">
 </p>
 
 <h1 align="center"><b>🍀 Rae ARK — 嵐久 怜</b></h1>
@@ -37,6 +37,9 @@ I'm not a developer — I'm a web novelist who happens to build the tools I need
 
 ## <a id="works"></a>📚 What I Write
 
+<details>
+<summary>Show details</summary>
+
 ### 🌌 Enigmatic Pathways Mystic Circuits *(EPMC)*
 `Light Novel` `Reincarnation` `Progression Fantasy` `Psychological Drama` — **On Hiatus**
 
@@ -60,6 +63,8 @@ Written short and focused, on purpose — one volume, four acts, meant to prove 
 
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-Read-833e3e?style=for-the-badge)](https://www.royalroad.com/fiction/173205/the-shadow-i-cast-over-two-beautiful-flowers/)
 
+</details>
+
 ## <a id="status"></a>🖊️ Currently Writing
 
 > [!NOTE]
@@ -71,6 +76,9 @@ Written short and focused, on purpose — one volume, four acts, meant to prove 
 
 ## <a id="projects"></a>🛠️ Projects
 
+<details>
+<summary>Show details</summary>
+
 ### 🌐 Author Site + Android App
 A Vue 3 + TypeScript site (Home / Works / Store / Journal / About / Feedback / Privacy / Terms) with light/dark theming that follows your system, offline support, and a native Android app wrapped via Capacitor — hardware back button, native status bar, safe-area-aware layout for edge-to-edge screens. Debug APK builds automatically via CI on every push.
 
@@ -79,6 +87,8 @@ A Vue 3 + TypeScript site (Home / Works / Store / Journal / About / Feedback / P
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rae-ARK/ARKfolio)
 
 > 🔄 **Next up:** migrating this site off Vue 3 and onto **[ARKlight](https://github.com/Rae-ARK/ARKlight)** — a Python-first static site compiler I'm building in parallel, write pages as Python functions and it compiles to plain HTML/CSS/JS.
+
+</details>
 
 ## <a id="in-print"></a>🛍️ In Print
 
@@ -104,7 +114,7 @@ A Vue 3 + TypeScript site (Home / Works / Store / Journal / About / Feedback / P
 
 <a id="languages"></a>
 
-🌐 **English** | [日本語](docs/multi-lang-readme/README_ja.md) | [简体中文](docs/multi-lang-readme/README_zh.md) | [한국어](docs/multi-lang-readme/README_ko.md) | [Español](docs/multi-lang-readme/README_es.md) | [Français](docs/multi-lang-readme/README_fr.md)
+🌐 **English** | [简体中文](docs/multi-lang-readme/README_zh.md) | [繁體中文](docs/multi-lang-readme/README_zh-TW.md) | [日本語](docs/multi-lang-readme/README_ja.md) | [한국어](docs/multi-lang-readme/README_ko.md) | [Türkçe](docs/multi-lang-readme/README_tr.md) | [Русский](docs/multi-lang-readme/README_ru.md) | [Tiếng Việt](docs/multi-lang-readme/README_vi.md) | [ไทย](docs/multi-lang-readme/README_th.md) | [Deutsch](docs/multi-lang-readme/README_de.md) | [Español](docs/multi-lang-readme/README_es.md) | [Français](docs/multi-lang-readme/README_fr.md) | [Українська](docs/multi-lang-readme/README_uk.md) | [Polski](docs/multi-lang-readme/README_pl.md) | [Português (Brasil)](docs/multi-lang-readme/README_pt-BR.md) | [العربية](docs/multi-lang-readme/README_ar.md) | [فارسی](docs/multi-lang-readme/README_fa.md) | [Bahasa Indonesia](docs/multi-lang-readme/README_id.md) | [Italiano](docs/multi-lang-readme/README_it.md) | [Ελληνικά](docs/multi-lang-readme/README_el.md) | [മലയാളം](docs/multi-lang-readme/README_ml.md) | [Roman Urdu](docs/multi-lang-readme/README_ur-Latn.md) | [Română](docs/multi-lang-readme/README_ro.md) | [Български](docs/multi-lang-readme/README_bg.md) | [தமிழ்](docs/multi-lang-readme/README_ta.md)
 
 <a href="#top">⬆️ Back to top</a>
 

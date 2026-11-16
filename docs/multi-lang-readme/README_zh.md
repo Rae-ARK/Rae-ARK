@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="ARKarium icon">
+  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="Rae's Profile">
 </p>
 
 <h1 align="center"><b>🍀 Rae ARK — 嵐久 怜</b></h1>
@@ -37,6 +37,9 @@
 
 ## <a id="works"></a>📚 我的作品
 
+<details>
+<summary>显示详情</summary>
+
 ### 🌌 Enigmatic Pathways Mystic Circuits *(EPMC)*
 `Light Novel` `Reincarnation` `Progression Fantasy` `Psychological Drama` — **停更中**
 
@@ -60,6 +63,8 @@
 
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-%E9%98%85%E8%AF%BB-833e3e?style=for-the-badge)](https://www.royalroad.com/fiction/173205/the-shadow-i-cast-over-two-beautiful-flowers/)
 
+</details>
+
 ## <a id="status"></a>🖊️ 当前进度
 
 > [!NOTE]
@@ -71,6 +76,9 @@
 
 ## <a id="projects"></a>🛠️ 项目
 
+<details>
+<summary>显示详情</summary>
+
 ### 🌐 作者网站 + Android 应用
 基于 Vue 3 + TypeScript 的网站（首页 / 作品 / 商店 / 日志 / 关于 / 反馈 / 隐私 / 条款），支持跟随系统的明暗主题、离线访问，并通过 Capacitor 封装为原生 Android 应用——支持硬件返回键、原生状态栏，以及适配全面屏的安全区域布局。每次 push 都会通过 CI 自动构建调试版 APK。
 
@@ -79,6 +87,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rae-ARK/ARKfolio)
 
 > 🔄 **接下来：** 把该网站从 Vue 3 迁移到 **[ARKlight](https://github.com/Rae-ARK/ARKlight)**——我正在同步开发的 Python 优先的静态网站编译器，用 Python 函数编写页面，并编译为纯 HTML/CSS/JS。
+
+</details>
 
 ## <a id="in-print"></a>🛍️ 纸质出版
 
@@ -104,7 +114,7 @@
 
 <a id="languages"></a>
 
-🌐 [English](../../README.md) | [日本語](README_ja.md) | **简体中文** | [한국어](README_ko.md) | [Español](README_es.md) | [Français](README_fr.md)
+🌐 [English](../../README.md) | **简体中文** | [繁體中文](README_zh-TW.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [Türkçe](README_tr.md) | [Русский](README_ru.md) | [Tiếng Việt](README_vi.md) | [ไทย](README_th.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Français](README_fr.md) | [Українська](README_uk.md) | [Polski](README_pl.md) | [Português (Brasil)](README_pt-BR.md) | [العربية](README_ar.md) | [فارسی](README_fa.md) | [Bahasa Indonesia](README_id.md) | [Italiano](README_it.md) | [Ελληνικά](README_el.md) | [മലയാളം](README_ml.md) | [Roman Urdu](README_ur-Latn.md) | [Română](README_ro.md) | [Български](README_bg.md) | [தமிழ்](README_ta.md)
 
 <a href="#top">⬆️ 返回顶部</a>
 

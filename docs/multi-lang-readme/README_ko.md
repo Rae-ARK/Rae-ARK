@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="ARKarium icon">
+  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="Rae's Profile">
 </p>
 
 <h1 align="center"><b>🍀 Rae ARK — 嵐久 怜</b></h1>
@@ -37,6 +37,9 @@
 
 ## <a id="works"></a>📚 쓰고 있는 작품
 
+<details>
+<summary>세부 정보 보기</summary>
+
 ### 🌌 Enigmatic Pathways Mystic Circuits *(EPMC)*
 `Light Novel` `Reincarnation` `Progression Fantasy` `Psychological Drama` — **장기 휴재**
 
@@ -60,6 +63,8 @@
 
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-%EC%9D%BD%EA%B8%B0-833e3e?style=for-the-badge)](https://www.royalroad.com/fiction/173205/the-shadow-i-cast-over-two-beautiful-flowers/)
 
+</details>
+
 ## <a id="status"></a>🖊️ 집필 현황
 
 > [!NOTE]
@@ -71,6 +76,9 @@
 
 ## <a id="projects"></a>🛠️ 프로젝트
 
+<details>
+<summary>세부 정보 보기</summary>
+
 ### 🌐 작가 사이트 + Android 앱
 Vue 3 + TypeScript 사이트(홈 / 작품 / 스토어 / 저널 / 소개 / 피드백 / 개인정보 / 약관). 시스템 설정을 따르는 라이트/다크 테마, 오프라인 지원, 그리고 Capacitor로 감싼 네이티브 Android 앱 — 하드웨어 뒤로 가기 버튼, 네이티브 상태 표시줄, 엣지 투 엣지 화면을 위한 세이프 에어리어 레이아웃을 지원합니다. 디버그 APK는 push할 때마다 CI로 자동 빌드됩니다.
 
@@ -79,6 +87,8 @@ Vue 3 + TypeScript 사이트(홈 / 작품 / 스토어 / 저널 / 소개 / 피드
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rae-ARK/ARKfolio)
 
 > 🔄 **다음 계획:** 이 사이트를 Vue 3에서 **[ARKlight](https://github.com/Rae-ARK/ARKlight)** 로 옮길 예정입니다 — 병행해서 만들고 있는 Python 우선 정적 사이트 컴파일러로, 페이지를 Python 함수로 작성하면 순수 HTML/CSS/JS로 컴파일됩니다.
+
+</details>
 
 ## <a id="in-print"></a>🛍️ 출간
 
@@ -104,7 +114,7 @@ Vue 3 + TypeScript 사이트(홈 / 작품 / 스토어 / 저널 / 소개 / 피드
 
 <a id="languages"></a>
 
-🌐 [English](../../README.md) | [日本語](README_ja.md) | [简体中文](README_zh.md) | **한국어** | [Español](README_es.md) | [Français](README_fr.md)
+🌐 [English](../../README.md) | [简体中文](README_zh.md) | [繁體中文](README_zh-TW.md) | [日本語](README_ja.md) | **한국어** | [Türkçe](README_tr.md) | [Русский](README_ru.md) | [Tiếng Việt](README_vi.md) | [ไทย](README_th.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Français](README_fr.md) | [Українська](README_uk.md) | [Polski](README_pl.md) | [Português (Brasil)](README_pt-BR.md) | [العربية](README_ar.md) | [فارسی](README_fa.md) | [Bahasa Indonesia](README_id.md) | [Italiano](README_it.md) | [Ελληνικά](README_el.md) | [മലയാളം](README_ml.md) | [Roman Urdu](README_ur-Latn.md) | [Română](README_ro.md) | [Български](README_bg.md) | [தமிழ்](README_ta.md)
 
 <a href="#top">⬆️ 맨 위로</a>
 

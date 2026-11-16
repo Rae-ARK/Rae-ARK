@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="ARKarium icon">
+  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="Rae's Profile">
 </p>
 
 <h1 align="center"><b>🍀 Rae ARK — 嵐久 怜</b></h1>
@@ -37,6 +37,9 @@ No soy desarrollador: soy un novelista web que, por casualidad, construye las he
 
 ## <a id="works"></a>📚 Lo que escribo
 
+<details>
+<summary>Mostrar detalles</summary>
+
 ### 🌌 Enigmatic Pathways Mystic Circuits *(EPMC)*
 `Light Novel` `Reincarnation` `Progression Fantasy` `Psychological Drama` — **En hiato**
 
@@ -60,6 +63,8 @@ Escrita corta y enfocada a propósito: un volumen, cuatro actos, pensada para de
 
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-Leer-833e3e?style=for-the-badge)](https://www.royalroad.com/fiction/173205/the-shadow-i-cast-over-two-beautiful-flowers/)
 
+</details>
+
 ## <a id="status"></a>🖊️ Escribiendo ahora
 
 > [!NOTE]
@@ -71,6 +76,9 @@ Escrita corta y enfocada a propósito: un volumen, cuatro actos, pensada para de
 
 ## <a id="projects"></a>🛠️ Proyectos
 
+<details>
+<summary>Mostrar detalles</summary>
+
 ### 🌐 Sitio de autor + app de Android
 Un sitio con Vue 3 + TypeScript (Inicio / Obras / Tienda / Diario / Acerca de / Comentarios / Privacidad / Términos) con tema claro/oscuro que sigue al sistema, soporte sin conexión y una app nativa de Android empaquetada con Capacitor: botón físico de retroceso, barra de estado nativa y diseño adaptado a las áreas seguras en pantallas de borde a borde. El APK de depuración se compila automáticamente con CI en cada push.
 
@@ -79,6 +87,8 @@ Un sitio con Vue 3 + TypeScript (Inicio / Obras / Tienda / Diario / Acerca de / 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rae-ARK/ARKfolio)
 
 > 🔄 **Próximo paso:** migrar este sitio de Vue 3 a **[ARKlight](https://github.com/Rae-ARK/ARKlight)**, un compilador de sitios estáticos centrado en Python que estoy desarrollando en paralelo: las páginas se escriben como funciones de Python y se compilan a HTML/CSS/JS simple.
+
+</details>
 
 ## <a id="in-print"></a>🛍️ En papel
 
@@ -104,7 +114,7 @@ Un sitio con Vue 3 + TypeScript (Inicio / Obras / Tienda / Diario / Acerca de / 
 
 <a id="languages"></a>
 
-🌐 [English](../../README.md) | [日本語](README_ja.md) | [简体中文](README_zh.md) | [한국어](README_ko.md) | **Español** | [Français](README_fr.md)
+🌐 [English](../../README.md) | [简体中文](README_zh.md) | [繁體中文](README_zh-TW.md) | [日本語](README_ja.md) | [한국어](README_ko.md) | [Türkçe](README_tr.md) | [Русский](README_ru.md) | [Tiếng Việt](README_vi.md) | [ไทย](README_th.md) | [Deutsch](README_de.md) | **Español** | [Français](README_fr.md) | [Українська](README_uk.md) | [Polski](README_pl.md) | [Português (Brasil)](README_pt-BR.md) | [العربية](README_ar.md) | [فارسی](README_fa.md) | [Bahasa Indonesia](README_id.md) | [Italiano](README_it.md) | [Ελληνικά](README_el.md) | [മലയാളം](README_ml.md) | [Roman Urdu](README_ur-Latn.md) | [Română](README_ro.md) | [Български](README_bg.md) | [தமிழ்](README_ta.md)
 
 <a href="#top">⬆️ Volver arriba</a>
 

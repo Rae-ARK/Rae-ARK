@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="ARKarium icon">
+  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=425" width="150" alt="Rae's Profile">
 </p>
 
 <h1 align="center"><b>🍀 Rae ARK — 嵐久 怜</b></h1>
@@ -37,6 +37,9 @@
 
 ## <a id="works"></a>📚 書いているもの
 
+<details>
+<summary>詳細を表示</summary>
+
 ### 🌌 Enigmatic Pathways Mystic Circuits *(EPMC)*
 `Light Novel` `Reincarnation` `Progression Fantasy` `Psychological Drama` — **休止中**
 
@@ -60,6 +63,8 @@
 
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-%E8%AA%AD%E3%82%80-833e3e?style=for-the-badge)](https://www.royalroad.com/fiction/173205/the-shadow-i-cast-over-two-beautiful-flowers/)
 
+</details>
+
 ## <a id="status"></a>🖊️ 執筆状況
 
 > [!NOTE]
@@ -71,6 +76,9 @@
 
 ## <a id="projects"></a>🛠️ プロジェクト
 
+<details>
+<summary>詳細を表示</summary>
+
 ### 🌐 作者サイト + Android アプリ
 Vue 3 + TypeScript 製のサイト（ホーム / 作品 / ストア / ジャーナル / 作者紹介 / フィードバック / プライバシー / 利用規約）。システム設定に追従するライト/ダークテーマ、オフライン対応、Capacitor でラップしたネイティブ Android アプリ（ハードウェアの戻るボタン、ネイティブのステータスバー、エッジ・トゥ・エッジ画面向けのセーフエリア対応レイアウト）を備えます。デバッグ APK は push のたびに CI で自動ビルドされます。
 
@@ -79,6 +87,8 @@ Vue 3 + TypeScript 製のサイト（ホーム / 作品 / ストア / ジャー�
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rae-ARK/ARKfolio)
 
 > 🔄 **次の予定：** このサイトを Vue 3 から **[ARKlight](https://github.com/Rae-ARK/ARKlight)** へ移行します — 並行して開発している Python ファーストの静的サイトコンパイラで、ページを Python の関数として書くと、素の HTML/CSS/JS にコンパイルされます。
+
+</details>
 
 ## <a id="in-print"></a>🛍️ 書籍化
 
@@ -104,7 +114,7 @@ Vue 3 + TypeScript 製のサイト（ホーム / 作品 / ストア / ジャー�
 
 <a id="languages"></a>
 
-🌐 [English](../../README.md) | **日本語** | [简体中文](README_zh.md) | [한국어](README_ko.md) | [Español](README_es.md) | [Français](README_fr.md)
+🌐 [English](../../README.md) | [简体中文](README_zh.md) | [繁體中文](README_zh-TW.md) | **日本語** | [한국어](README_ko.md) | [Türkçe](README_tr.md) | [Русский](README_ru.md) | [Tiếng Việt](README_vi.md) | [ไทย](README_th.md) | [Deutsch](README_de.md) | [Español](README_es.md) | [Français](README_fr.md) | [Українська](README_uk.md) | [Polski](README_pl.md) | [Português (Brasil)](README_pt-BR.md) | [العربية](README_ar.md) | [فارسی](README_fa.md) | [Bahasa Indonesia](README_id.md) | [Italiano](README_it.md) | [Ελληνικά](README_el.md) | [മലയാളം](README_ml.md) | [Roman Urdu](README_ur-Latn.md) | [Română](README_ro.md) | [Български](README_bg.md) | [தமிழ்](README_ta.md)
 
 <a href="#top">⬆️ ページ上部へ</a>
 
