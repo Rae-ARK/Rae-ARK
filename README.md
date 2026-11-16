@@ -1,8 +1,13 @@
-# 🍀 Rae ARK — 嵐久 怜
 
-### ✍️ Writer first. Everything else is vibe-coded.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/306980831?v=4&size=64" width="150" alt="ARKarium icon">
+</p>
 
-I'm not a developer — I'm a web novelist who happens to build the tools I need myself. This profile, the [author site](#-vibe-coded-projects) below, all of it exists because I wanted it to and figured out how, not because I do this professionally.
+<h1 align="center"><b>🍀 Rae ARK — 嵐久 怜</b></h1>
+
+<h3 align="center">✍️ Writer first. Everything else is AI Assisted Development.</h3>
+
+I'm not a developer — I'm a web novelist who happens to build the tools I need myself. This profile, the [author site](https://rae-ark.horizonarkstudio.workers.dev/) below, all of it exists because I wanted it to and figured out how, not because I do this professionally.
 
 ---
 
@@ -10,13 +15,12 @@ I'm not a developer — I'm a web novelist who happens to build the tools I need
 
 - ✍️ Hobbyist web novelist — fantasy and science fantasy, mostly about people rebuilding themselves.
 - 📚 Three ongoing works, spanning reincarnation, isekai, and contemporary drama.
-- 🖋️ Publishing under my own imprint, **Horizon ARK Studio**.
-- 💻 Not a coder by trade — I vibe-code small personal tools (like my author site) when I need something specific to exist.
+- 🖋️ Publishing under my own imprint `Unofficially`, **Horizon ARK Studio**.
+- 💻 Not a coder by trade — I make small personal tools (like my author site) when I need something specific to exist.
 - 🎯 Goal: finish what I start, even the projects designed to be short on purpose.
 
----
-
-## 📚 What I Write
+<details>
+<summary><h2>📚 What I Write</h2></summary>
 
 ### 🌌 Enigmatic Pathways Mystic Circuits *(EPMC)*
 `Light Novel` `Reincarnation` `Progression Fantasy` `Psychological Drama` — **On Hiatus**
@@ -41,34 +45,36 @@ Written short and focused, on purpose — one volume, four acts, meant to prove 
 
 [![Royal Road](https://img.shields.io/badge/Royal%20Road-Read-833e3e?style=for-the-badge)](https://www.royalroad.com/fiction/173205/the-shadow-i-cast-over-two-beautiful-flowers/)
 
----
+</details>
 
 ## 🖊️ Currently Writing
 
-| Work | Status |
-|---|---|
-| EPMC — Volume 3 | 🟢 In progress |
-| SBM — Arc 3 | 🟢 Ongoing |
-| STBF — Act 2 | 🟡 On break |
+> [!NOTE]
+> | Work | Status |
+> |---|---|
+> | EPMC — Volume 3 | 🟢 In progress |
+> | SBM — Arc 4 | 🟢 Ongoing |
+> | STBF — Act 2 | 🟡 On break |
 
----
-
-## 🛠️ Vibe-Coded Projects
+<details>
+<summary><h2>🛠️ Projects/h2></summary>
 
 ### 🌐 Author Site + Android App
 A Vue 3 + TypeScript site (Home / Works / Store / Journal / About / Feedback / Privacy / Terms) with light/dark theming that follows your system, offline support, and a native Android app wrapped via Capacitor — hardware back button, native status bar, safe-area-aware layout for edge-to-edge screens. Debug APK builds automatically via CI on every push.
 
 `Vue 3` `TypeScript` `Vite` `Capacitor` `Android` `Cloudflare Workers`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rae-ARK/My-Portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Rae-ARK/ARKfolio)
 
 > 🔄 **Next up:** migrating this site off Vue 3 and onto **[ARKlight](https://github.com/Rae-ARK/ARKlight)** — a Python-first static site compiler I'm building in parallel, write pages as Python functions and it compiles to plain HTML/CSS/JS.
 
----
+</details>
 
 ## 🛍️ In Print
 
-Published under **Horizon ARK Studio**.
+> [!IMPORTANT]
+> Unofficially
+> Published under **Horizon ARK Studio**.
 
 [![Amazon](https://img.shields.io/badge/Amazon-SBM%20Paperback-orange?style=flat-square)](https://www.royalroad.com/amazon/B0H62KQV8D?maas=&ref=)
 [![Walmart](https://img.shields.io/badge/Walmart-SBM%20Paperback-0071ce?style=flat-square)](https://www.walmart.com/ip/Summoned-by-Mistake-I-Decided-to-Learn-How-to-Live-Volume-1-Unwanted-Summoning-Of-Names-and-New-Beginnings-Arc-1-2-Paperback-9798181078697/20471956500)
