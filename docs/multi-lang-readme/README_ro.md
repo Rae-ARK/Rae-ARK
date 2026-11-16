@@ -39,8 +39,8 @@ Nu sunt dezvoltator — sunt autor de web novel-uri care, întâmplător, își 
 
 <table>
 <tr>
-<td width="110" align="center">
-<img src="https://www.royalroadcdn.com/public/covers-large/114101-enigmatic-pathways-mystic-circuits.webp" width="100" alt="EPMC cover">
+<td width="140" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/114101-enigmatic-pathways-mystic-circuits.webp" width="120" alt="EPMC cover">
 </td>
 <td>
 
@@ -55,8 +55,8 @@ Un cercetător care nu a învățat niciodată să trăiască se trezește cu o 
 </td>
 </tr>
 <tr>
-<td width="110" align="center">
-<img src="https://www.royalroadcdn.com/public/covers-large/163034-summoned-by-mistake-i-decided-to-learn.webp" width="100" alt="SBM cover">
+<td width="140" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/163034-summoned-by-mistake-i-decided-to-learn.webp" width="120" alt="SBM cover">
 </td>
 <td>
 
@@ -71,8 +71,8 @@ Un bărbat care nu și-a înțeles niciodată viața primește un companion IA �
 </td>
 </tr>
 <tr>
-<td width="110" align="center">
-<img src="https://www.royalroadcdn.com/public/covers-large/the-shadow-i-cast-over-two-beautiful-flowers-203288.webp" width="100" alt="STBF cover">
+<td width="140" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/the-shadow-i-cast-over-two-beautiful-flowers-203288.webp" width="120" alt="STBF cover">
 </td>
 <td>
 

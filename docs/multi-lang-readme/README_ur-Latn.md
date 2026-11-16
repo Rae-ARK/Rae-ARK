@@ -39,8 +39,8 @@ Main developer nahi hoon — main ek web novelist hoon jo itefaqan apne zaroori 
 
 <table>
 <tr>
-<td width="110" align="center">
-<img src="https://www.royalroadcdn.com/public/covers-large/114101-enigmatic-pathways-mystic-circuits.webp" width="100" alt="EPMC cover">
+<td width="140" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/114101-enigmatic-pathways-mystic-circuits.webp" width="120" alt="EPMC cover">
 </td>
 <td>
 
@@ -55,8 +55,8 @@ Ek researcher jisne kabhi jeena nahi seekha, jaadu ki duniya mein doosri zindagi
 </td>
 </tr>
 <tr>
-<td width="110" align="center">
-<img src="https://www.royalroadcdn.com/public/covers-large/163034-summoned-by-mistake-i-decided-to-learn.webp" width="100" alt="SBM cover">
+<td width="140" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/163034-summoned-by-mistake-i-decided-to-learn.webp" width="120" alt="SBM cover">
 </td>
 <td>
 
@@ -71,8 +71,8 @@ Ek aadmi jisne apni zindagi ko kabhi samjha nahi, usay taaqat ki jagah ek AI com
 </td>
 </tr>
 <tr>
-<td width="110" align="center">
-<img src="https://www.royalroadcdn.com/public/covers-large/the-shadow-i-cast-over-two-beautiful-flowers-203288.webp" width="100" alt="STBF cover">
+<td width="140" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/the-shadow-i-cast-over-two-beautiful-flowers-203288.webp" width="120" alt="STBF cover">
 </td>
 <td>
 

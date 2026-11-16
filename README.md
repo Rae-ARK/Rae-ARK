@@ -39,8 +39,8 @@ I'm not a developer — I'm a web novelist who happens to build the tools I need
 
 <table>
 <tr>
-<td width="110" align="center">
-<img src="https://www.royalroadcdn.com/public/covers-large/114101-enigmatic-pathways-mystic-circuits.webp" width="100" alt="EPMC cover">
+<td width="140" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/114101-enigmatic-pathways-mystic-circuits.webp" width="120" alt="EPMC cover">
 </td>
 <td>
 
@@ -55,8 +55,8 @@ A researcher who never learned to live wakes up with a second life in a world of
 </td>
 </tr>
 <tr>
-<td width="110" align="center">
-<img src="https://www.royalroadcdn.com/public/covers-large/163034-summoned-by-mistake-i-decided-to-learn.webp" width="100" alt="SBM cover">
+<td width="140" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/163034-summoned-by-mistake-i-decided-to-learn.webp" width="120" alt="SBM cover">
 </td>
 <td>
 
@@ -71,8 +71,8 @@ A man who never understood his own life is handed an AI companion instead of pow
 </td>
 </tr>
 <tr>
-<td width="110" align="center">
-<img src="https://www.royalroadcdn.com/public/covers-large/the-shadow-i-cast-over-two-beautiful-flowers-203288.webp" width="100" alt="STBF cover">
+<td width="140" align="center">
+<img src="https://www.royalroadcdn.com/public/covers-large/the-shadow-i-cast-over-two-beautiful-flowers-203288.webp" width="120" alt="STBF cover">
 </td>
 <td>
 
